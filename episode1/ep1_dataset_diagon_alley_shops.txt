@@ -1,0 +1,235 @@
+shops	price_per_item_type_in_galleons	number_of_items_in_inventory	total_revenue_per_item_type_in_galleons
+Owl Emporium	4.2	16	23000
+Owl Emporium	3.1	15	25000
+Owl Emporium	3.1	17	25000
+Owl Emporium	3.1	17	25000
+Owl Emporium	3.1	18	27000
+Owl Emporium	2.8	15	25000
+Owl Emporium	2.8	15	24000
+Owl Emporium	2.8	16	26000
+Owl Emporium	2.8	17	25000
+Owl Emporium	2.8	18	26000
+Owl Emporium	2	19	27000
+Owl Emporium	2	20	31000
+Owl Emporium	2	20	28000
+Owl Emporium	2	21	30000
+Owl Emporium	1.8	16	25000
+Owl Emporium	1.8	18	29000
+Owl Emporium	1.8	18	26000
+Owl Emporium	1.8	21	29000
+Quality Quidditch Supplies	7	15	24000
+Quality Quidditch Supplies	6.5	14	17000
+Quality Quidditch Supplies	6.2	15	25000
+Quality Quidditch Supplies	6.2	16	26000
+Quality Quidditch Supplies	6	12	17000
+Quality Quidditch Supplies	5.7	11	15000
+Quality Quidditch Supplies	5.7	13	17000
+Quality Quidditch Supplies	5.7	15	23000
+Quality Quidditch Supplies	5.7	16	26000
+Quality Quidditch Supplies	5.3	11	15000
+Quality Quidditch Supplies	5.3	11	14000
+Quality Quidditch Supplies	5.3	14	20000
+Quality Quidditch Supplies	5.3	14	20000
+Quality Quidditch Supplies	5.3	14	19000
+Quality Quidditch Supplies	3.6	17	26000
+Quality Quidditch Supplies	3.5	18	29000
+Quality Quidditch Supplies	3.1	18	26000
+Quality Quidditch Supplies	2.4	19	27000
+Quality Quidditch Supplies	2.4	22	30000
+Florean Fortescue	5.9	11	15000
+Florean Fortescue	5.9	11	15000
+Florean Fortescue	5.7	13	18000
+Florean Fortescue	5.7	13	17000
+Florean Fortescue	5.2	11	17000
+Florean Fortescue	5.2	11	15000
+Florean Fortescue	5.2	11	16000
+Florean Fortescue	5.2	11	15000
+Florean Fortescue	5.2	11	16000
+Florean Fortescue	4.7	9	12000
+Florean Fortescue	4.7	9	12000
+Florean Fortescue	4.7	9	12000
+Florean Fortescue	4.7	9	12000
+Florean Fortescue	4.7	12	16000
+Florean Fortescue	4.7	12	16000
+Florean Fortescue	4.7	13	17000
+Florean Fortescue	4.7	13	17000
+Florean Fortescue	4.7	13	17000
+Florean Fortescue	4.7	13	17000
+Florean Fortescue	4.7	14	19000
+Florean Fortescue	4.7	14	19000
+Florean Fortescue	4	16	23000
+Florean Fortescue	3.9	13	17000
+Florean Fortescue	3.9	13	17000
+Florean Fortescue	3.9	14	17000
+Florean Fortescue	3.8	15	22000
+Florean Fortescue	3.8	15	21000
+Florean Fortescue	3.8	16	23000
+Florean Fortescue	3.7	14	18000
+Florean Fortescue	3.7	15	19000
+Florean Fortescue	3.3	11	17000
+Florean Fortescue	3.3	16	22000
+Florean Fortescue	3.3	16	22000
+Florean Fortescue	3.3	17	24000
+Florean Fortescue	3.3	17	24000
+Florean Fortescue	3	17	24000
+Florean Fortescue	2.4	18	24000
+Quality Quidditch Supplies	5.4	11	17000
+Quality Quidditch Supplies	5.4	11	15000
+Quality Quidditch Supplies	5.4	12	18000
+Quality Quidditch Supplies	5.4	13	17000
+Quality Quidditch Supplies	5.4	14	20000
+Quality Quidditch Supplies	5	13	17000
+Quality Quidditch Supplies	4.6	11	17000
+Quality Quidditch Supplies	4.6	13	19000
+Quality Quidditch Supplies	4.6	13	16000
+Quality Quidditch Supplies	4.6	13	16000
+Quality Quidditch Supplies	4.6	13	17000
+Quality Quidditch Supplies	4.6	15	21000
+Quality Quidditch Supplies	4.6	15	22000
+Quality Quidditch Supplies	4.6	15	23000
+Quality Quidditch Supplies	4.6	15	22000
+Quality Quidditch Supplies	4.2	14	17000
+Quality Quidditch Supplies	4.2	14	17000
+Quality Quidditch Supplies	4	13	19000
+Quality Quidditch Supplies	4	14	17000
+Quality Quidditch Supplies	4	14	17000
+Quality Quidditch Supplies	4	15	19000
+Quality Quidditch Supplies	4	16	24000
+Quality Quidditch Supplies	4	17	26000
+Quality Quidditch Supplies	3.8	18	26000
+Quality Quidditch Supplies	3.8	18	25000
+Madam Malkins Robes	2	21	29000
+Madam Malkins Robes	1.8	24	36000
+Madam Malkins Robes	1.8	25	36000
+Madam Malkins Robes	1.8	26	34000
+Madam Malkins Robes	1.6	23	29000
+Madam Malkins Robes	1.6	24	32000
+Madam Malkins Robes	1.6	24	32000
+Madam Malkins Robes	1.6	25	32000
+Madam Malkins Robes	1.6	28	33000
+Flourish and Blotts	3.3	19	28000
+Flourish and Blotts	2.7	16	24000
+Flourish and Blotts	2.7	17	24000
+Flourish and Blotts	2.7	17	24000
+Flourish and Blotts	2.5	18	26000
+Flourish and Blotts	2.5	18	26000
+Flourish and Blotts	2.4	18	26000
+Flourish and Blotts	2.4	18	27000
+Flourish and Blotts	2.4	21	30000
+Flourish and Blotts	2.4	21	31000
+Flourish and Blotts	2	19	26000
+Flourish and Blotts	2	19	29000
+Flourish and Blotts	2	20	28000
+Flourish and Blotts	2	20	27000
+Madam Malkins Robes	6.1	11	14000
+Madam Malkins Robes	5.7	13	18000
+Madam Malkins Robes	4.7	9	12000
+Madam Malkins Robes	4.7	14	17000
+Madam Malkins Robes	4.7	14	19000
+Madam Malkins Robes	4	15	20000
+Madam Malkins Robes	3.7	15	19000
+Madam Malkins Robes	3	17	22000
+Broomstix	4.6	11	15000
+Broomstix	4.4	12	18000
+Broomstix	4.2	12	18000
+Broomstix	4	11	15000
+Broomstix	5.4	11	17000
+Broomstix	5.4	11	16000
+Broomstix	5.4	12	18000
+Broomstix	5	13	17000
+Broomstix	4.6	13	19000
+Broomstix	4	13	19000
+Broomstix	4	14	17000
+Madam Malkins Robes	5.6	12	18000
+Madam Malkins Robes	4	14	20000
+Madam Malkins Robes	3.5	19	27000
+Madam Malkins Robes	3.5	19	26000
+Madam Malkins Robes	3.5	19	25000
+Madam Malkins Robes	3.3	14	17000
+Madam Malkins Robes	3.3	15	17000
+Madam Malkins Robes	3	18	26000
+Madam Malkins Robes	3	19	25000
+Madam Malkins Robes	2.5	23	31000
+Madam Malkins Robes	2.5	23	32000
+Madam Malkins Robes	2.4	19	27000
+Madam Malkins Robes	2.4	21	29000
+Broomstix	5.3	16	25000
+Broomstix	3.8	16	26000
+Broomstix	3.8	17	27000
+Broomstix	3.8	18	28000
+Broomstix	3.1	18	26000
+Owl Emporium	2.5	18	25000
+Owl Emporium	2.5	18	24000
+Owl Emporium	2.5	18	23000
+Owl Emporium	2.5	19	25000
+Owl Emporium	2.5	19	26000
+Owl Emporium	2.5	19	26000
+Owl Emporium	2.5	19	25000
+Owl Emporium	2.5	20	27000
+Owl Emporium	2.5	20	26000
+Owl Emporium	2.5	20	25000
+Owl Emporium	2.5	20	27000
+Owl Emporium	2.5	20	27000
+Owl Emporium	2.2	19	26000
+Owl Emporium	2.2	21	26000
+Ollivanders	5.7	13	18000
+Ollivanders	4.7	11	15000
+Ollivanders	4.7	14	17000
+Ollivanders	4	15	18000
+Ollivanders	4	16	20000
+Ollivanders	4	16	20000
+Ollivanders	3.5	19	28000
+Ollivanders	3.4	15	19000
+Ollivanders	3.4	15	17000
+Ollivanders	3.4	15	17000
+Ollivanders	3.4	15	19000
+Ollivanders	3.3	18	27000
+Ollivanders	3	18	26000
+Ollivanders	3	18	26000
+Ollivanders	3	18	26000
+Ollivanders	3	18	26000
+Ollivanders	2.7	15	20000
+Ollivanders	2.7	15	20000
+Ollivanders	2.7	16	20000
+Ollivanders	2.7	16	20000
+Ollivanders	2.7	17	22000
+Ollivanders	2.4	21	31000
+Ollivanders	2.4	21	31000
+Ollivanders	2.4	21	31000
+Ollivanders	2.4	22	31000
+Ollivanders	2.2	21	29000
+Ollivanders	2.2	21	27000
+Ollivanders	2.2	21	27000
+Ollivanders	2.2	21	29000
+Ollivanders	1.8	24	30000
+Ollivanders	1.8	24	33000
+Ollivanders	1.8	26	35000
+Ollivanders	1.8	26	35000
+Ollivanders	1.8	28	37000
+Apothecary	3.6	17	26000
+Apothecary	2.8	16	23000
+Apothecary	2.8	16	26000
+Apothecary	2.8	17	24000
+Apothecary	2.8	17	24000
+Apothecary	2.8	18	26000
+Apothecary	2.5	20	28000
+Apothecary	2.5	20	29000
+Apothecary	2.5	21	29000
+Apothecary	2.5	21	29000
+Apothecary	2	19	26000
+Apothecary	2	19	26000
+Apothecary	2	19	26000
+Apothecary	2	19	28000
+Apothecary	2	21	29000
+Apothecary	2	21	29000
+Apothecary	2	21	29000
+Apothecary	2	21	29000
+Apothecary	2	21	29000
+Apothecary	2	21	29000
+Apothecary	2	22	29000
+Apothecary	2	22	29000
+Apothecary	1.9	29	41000
+Apothecary	1.9	33	44000
+Apothecary	1.9	35	44000
+Apothecary	1.8	18	29000
+Apothecary	1.8	21	29000
