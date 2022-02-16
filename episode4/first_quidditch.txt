@@ -1,0 +1,499 @@
+broom_type	student_weight	broom_skills	flying_speed
+Siberian Arrow	61.1	19.6	17.7
+Swiftstick	61.3	15.1	16.7
+Cleansweep One	61.3	28.8	20.5
+Nimbus 1700	61.5	28.2	20.2
+Oakshaft 79	61.6	9.1	14.4
+Swiftstick	61.6	1.5	16.3
+Comet 140	62.0	17.6	17.2
+Nimbus 2001	62.0	1.8	14.0
+Firebolt	62.1	25.8	19.2
+Shooting Star	62.6	4.3	14.9
+Cleansweep Three	62.6	18.3	16.4
+Silver Arrow	62.8	23.2	18.5
+Tinderblast	63.0	3.8	15.2
+Siberian Arrow	63.2	9.2	16.5
+Turbo XXX	63.7	21.5	17.9
+Nimbus 1700	63.8	17.7	18.5
+Australian Flyabout	64.0	6.4	14.6
+Australian Flyabout	64.0	27.5	19.4
+Nimbus 2001	64.2	19.7	17.1
+Starsweeper XXI	64.3	8.0	15.2
+Shooting Star	64.4	20.7	17.4
+Yajirushi	64.4	27.3	18.7
+Nimbus 2001	64.5	4.4	13.8
+Swiftstick	64.5	23.4	18.8
+Swiftstick	64.7	11.0	15.9
+Swiftstick	64.7	9.9	15.6
+Moontrimmer	64.7	24.1	19.6
+Cleansweep Three	64.8	12.8	15.9
+Cleansweep Two	64.8	27.6	18.5
+Yajirushi	65.2	4.4	15.6
+Oakshaft 79	65.5	16.1	17.6
+Thunderbolt VII	65.5	17.9	16.0
+Nimbus 2000	65.8	6.8	15.8
+Firebolt	66.1	14.3	17.1
+Thunderbolt VII	66.2	15.5	16.0
+Comet 140	66.3	20.2	17.6
+Nimbus 1700	66.3	19.4	17.8
+Air Wave Gold	66.3	5.2	14.8
+Starsweeper XXI	66.9	26.1	18.7
+Cleansweep Three	67.5	19.4	16.6
+Shooting Star	67.6	29.6	18.1
+Oakshaft 79	67.6	26.7	18.7
+Air Wave Gold	67.7	8.4	13.3
+Shooting Star	67.8	26.8	17.6
+Nimbus 2000	68.1	5.9	14.4
+Tinderblast	68.3	6.4	13.5
+Comet 140	68.5	29.9	17.9
+Silver Arrow	68.6	4.4	14.5
+Nimbus 2001	68.8	3.9	13.4
+Nimbus 2001	68.8	16.5	16.5
+Tinderblast	69.4	8.6	13.5
+Swiftstick	69.6	8.4	15.6
+Twigger 90	69.7	4.4	13.6
+Nimbus 2001	69.7	3.5	12.9
+Nimbus 2001	69.7	15.3	15.6
+Moontrimmer	69.8	18.0	16.8
+Moontrimmer	69.8	23.8	17.8
+Shooting Star	69.9	22.3	16.4
+Twigger 90	70.1	11.3	14.8
+Nimbus 2001	70.3	26.9	17.1
+Cleansweep Two	70.3	27.6	17.4
+Thunderbolt VII	70.4	16.0	14.1
+Oakshaft 79	70.4	23.7	17.0
+Turbo XXX	70.5	15.0	15.6
+Comet 140	70.6	6.0	14.1
+Cleansweep Three	70.6	19.3	16.7
+Swiftstick	70.7	16.5	15.4
+Comet 180	71.1	17.5	14.9
+Firebolt	71.3	9.2	14.5
+Thunderbolt VII	71.5	6.7	14.6
+Cleansweep Three	71.6	6.3	14.4
+Nimbus 1000	71.7	26.7	17.5
+Starsweeper XXI	71.9	1.1	12.8
+Nimbus 1700	71.9	3.5	14.4
+Nimbus 2000	72.3	26.9	17.8
+Nimbus 1000	72.6	17.0	14.9
+Cleansweep Two	72.9	25.2	16.3
+Nimbus 2000	72.9	27.0	18.6
+Cleansweep One	73.2	10.0	14.5
+Comet 180	73.4	29.7	17.2
+Cleansweep Two	73.6	1.4	11.8
+Turbo XXX	73.7	14.2	14.3
+Nimbus 2000	73.9	27.3	16.0
+Nimbus 2000	74.0	21.0	16.0
+Australian Flyabout	74.2	26.7	17.4
+Turbo XXX	74.6	6.8	14.5
+Thunderbolt VII	74.7	17.9	16.3
+Oakshaft 79	74.7	9.8	13.3
+Cleansweep One	74.7	28.3	17.0
+Swiftstick	74.7	19.5	14.4
+Siberian Arrow	75.0	12.9	15.3
+Turbo XXX	75.1	16.6	14.9
+Nimbus 1000	75.1	3.3	12.7
+Tinderblast	75.1	7.9	13.6
+Starsweeper XXI	75.2	14.5	14.6
+Thunderbolt VII	75.3	22.4	17.3
+Swiftstick	75.4	23.4	14.1
+Twigger 90	75.5	11.6	13.4
+Swiftstick	75.5	18.8	14.9
+Bluebottle	75.5	19.5	15.2
+Comet 140	76.0	19.9	15.4
+Starsweeper XXI	76.1	19.1	14.7
+Starsweeper XXI	76.2	28.4	17.4
+Firebolt	76.3	3.5	13.6
+Nimbus 2001	77.1	1.4	11.5
+Cleansweep Three	77.2	20.7	15.2
+Air Wave Gold	77.5	4.8	11.9
+Tinderblast	77.6	27.2	15.1
+Air Wave Gold	77.7	8.3	13.8
+Tinderblast	77.8	3.5	11.4
+Nimbus 2001	78.0	26.8	16.2
+Firebolt	78.1	10.8	13.3
+Firebolt	78.2	15.9	13.9
+Nimbus 1000	78.4	23.4	16.5
+Cleansweep Two	78.5	26.4	16.0
+Yajirushi	78.8	16.8	15.1
+Turbo XXX	79.0	14.0	13.5
+Yajirushi	79.1	27.1	16.6
+Yajirushi	79.3	29.7	16.3
+Twigger 90	79.4	6.1	11.5
+Cleansweep Three	79.7	1.4	11.8
+Silver Arrow	79.9	19.1	14.5
+Air Wave Gold	79.9	6.1	11.6
+Yajirushi	80.1	11.9	12.7
+Moontrimmer	80.2	10.3	13.4
+Silver Arrow	80.2	28.2	16.5
+Air Wave Gold	80.3	11.2	12.4
+Cleansweep Two	80.6	15.4	14.6
+Swiftstick	80.8	19.5	14.4
+Cleansweep One	80.8	5.3	11.1
+Thunderbolt VII	81.1	18.9	14.8
+Nimbus 1700	81.3	12.9	13.8
+Cleansweep Three	81.5	23.0	15.0
+Nimbus 1000	81.5	4.8	10.4
+Firebolt	81.6	2.6	11.4
+Thunderbolt VII	81.6	7.6	12.4
+Cleansweep Three	81.6	9.3	14.0
+Comet 140	81.8	18.9	14.2
+Swiftstick	81.8	15.5	13.4
+Swiftstick	82.0	19.5	13.8
+Silver Arrow	82.3	23.2	15.9
+Starsweeper XXI	82.4	21.7	15.0
+Thunderbolt VII	82.5	26.0	14.8
+Shooting Star	82.5	7.7	11.7
+Nimbus 2001	82.5	16.3	13.7
+Nimbus 2000	82.6	13.7	13.5
+Nimbus 2000	82.7	28.7	16.8
+Comet 140	82.7	1.0	10.9
+Swiftstick	82.7	8.3	11.3
+Nimbus 2001	82.8	9.8	10.9
+Tinderblast	82.9	2.4	11.0
+Firebolt	82.9	24.6	16.2
+Firebolt	83.1	0.9	10.7
+Siberian Arrow	83.3	14.3	13.3
+Comet 140	83.3	20.7	13.8
+Nimbus 2001	83.9	4.2	10.9
+Cleansweep Two	84.0	7.6	11.6
+Nimbus 1000	84.5	26.9	15.0
+Starsweeper XXI	84.7	4.6	12.1
+Turbo XXX	84.7	25.6	13.7
+Cleansweep Three	84.8	6.5	11.6
+Twigger 90	85.0	23.2	13.7
+Swiftstick	85.1	5.8	11.5
+Yajirushi	85.3	7.2	12.0
+Nimbus 2000	85.3	18.1	13.2
+Nimbus 2001	85.4	13.2	12.4
+Nimbus 1000	85.7	23.3	13.6
+Shooting Star	85.8	19.8	13.2
+Moontrimmer	85.8	28.5	14.4
+Starsweeper XXI	85.9	8.2	10.9
+Shooting Star	85.9	16.2	13.6
+Thunderbolt VII	86.2	7.4	12.4
+Starsweeper XXI	86.2	6.6	10.6
+Shooting Star	86.3	26.7	15.1
+Swiftstick	86.4	7.8	11.0
+Thunderbolt VII	86.7	11.6	11.4
+Starsweeper XXI	86.9	16.7	13.5
+Firebolt	86.9	11.5	12.2
+Firebolt	87.0	15.9	12.9
+Yajirushi	87.2	13.4	12.3
+Firebolt	87.3	16.9	12.2
+Nimbus 2001	87.4	18.2	11.6
+Comet 140	87.6	4.4	10.9
+Comet 140	87.7	18.6	11.5
+Turbo XXX	88.1	14.7	12.8
+Bluebottle	88.4	20.2	13.0
+Nimbus 1700	88.5	17.3	11.7
+Tinderblast	88.5	12.7	11.3
+Cleansweep Two	88.5	14.9	11.7
+Air Wave Gold	88.6	16.0	12.1
+Shooting Star	88.6	1.1	10.1
+Thunderbolt VII	88.6	12.5	11.4
+Thunderbolt VII	88.8	11.4	12.8
+Oakshaft 79	88.9	24.2	13.7
+Swiftstick	89.0	29.2	13.8
+Tinderblast	89.2	27.4	13.6
+Yajirushi	89.6	18.8	11.8
+Nimbus 2000	89.7	12.2	12.8
+Bluebottle	89.7	2.4	9.4
+Siberian Arrow	89.7	23.3	13.0
+Firebolt	89.9	2.4	9.4
+Cleansweep Three	89.9	24.6	13.5
+Swiftstick	90.1	29.3	15.0
+Comet 180	90.2	6.6	9.8
+Nimbus 1700	90.4	17.0	12.4
+Silver Arrow	90.5	2.5	8.9
+Turbo XXX	90.5	29.9	14.3
+Swiftstick	90.5	18.1	11.7
+Turbo XXX	90.5	12.4	11.1
+Firebolt	90.7	16.7	11.8
+Australian Flyabout	90.8	23.6	11.8
+Cleansweep One	90.8	10.9	11.8
+Turbo XXX	91.0	29.0	13.8
+Twigger 90	91.2	5.6	9.9
+Comet 140	91.2	7.8	9.8
+Starsweeper XXI	91.4	8.2	9.8
+Nimbus 2001	91.5	22.2	13.2
+Turbo XXX	91.7	21.4	12.1
+Nimbus 2001	91.7	23.2	12.5
+Cleansweep Two	91.7	28.7	13.0
+Moontrimmer	91.8	22.2	13.3
+Nimbus 1000	91.9	16.2	10.5
+Starsweeper XXI	91.9	28.2	13.2
+Swiftstick	92.1	12.5	11.5
+Silver Arrow	92.1	1.0	8.9
+Starsweeper XXI	92.2	5.0	9.9
+Comet 180	92.5	25.3	13.2
+Bluebottle	92.6	13.7	10.4
+Thunderbolt VII	93.0	0.7	8.6
+Nimbus 2001	93.2	17.6	12.1
+Moontrimmer	93.3	6.8	10.4
+Silver Arrow	93.3	17.3	11.3
+Swiftstick	93.7	14.1	10.2
+Comet 180	93.8	1.0	6.9
+Tinderblast	93.9	24.4	11.4
+Cleansweep Two	93.9	5.8	9.2
+Starsweeper XXI	94.0	13.1	10.4
+Firebolt	94.2	24.4	13.2
+Turbo XXX	94.2	17.8	11.3
+Firebolt	94.5	16.8	10.7
+Thunderbolt VII	94.6	4.9	8.9
+Starsweeper XXI	94.7	8.6	8.3
+Nimbus 1700	94.8	29.8	13.4
+Cleansweep Two	95.0	22.7	12.5
+Comet 140	95.3	23.3	12.1
+Oakshaft 79	95.3	9.1	9.8
+Nimbus 2001	95.5	15.9	11.4
+Siberian Arrow	95.7	8.9	10.5
+Air Wave Gold	95.7	9.4	9.6
+Firebolt	95.9	18.5	11.4
+Cleansweep Three	96.1	13.8	9.7
+Nimbus 1700	96.2	20.9	12.8
+Turbo XXX	96.3	25.3	12.6
+Siberian Arrow	96.3	8.2	9.8
+Starsweeper XXI	96.4	23.7	11.3
+Turbo XXX	96.4	25.4	11.6
+Nimbus 1700	96.5	2.1	8.5
+Cleansweep Two	97.2	22.4	10.5
+Bluebottle	97.3	12.8	10.7
+Nimbus 1700	97.7	25.0	11.1
+Nimbus 2001	97.7	26.3	11.2
+Nimbus 2000	98.0	13.9	10.1
+Thunderbolt VII	98.1	17.0	8.3
+Twigger 90	98.2	20.1	11.6
+Nimbus 2000	98.2	4.2	7.3
+Comet 140	98.2	23.5	11.8
+Turbo XXX	98.6	18.2	9.5
+Swiftstick	99.0	0.8	8.8
+Moontrimmer	99.2	17.6	10.7
+Starsweeper XXI	99.2	15.3	10.4
+Nimbus 1700	99.3	15.1	9.3
+Nimbus 1700	99.3	13.6	8.9
+Cleansweep Two	99.7	10.3	9.5
+Cleansweep Two	99.7	12.7	9.7
+Nimbus 2000	99.9	19.7	8.9
+Comet 140	99.9	14.5	10.0
+Nimbus 1700	100.0	14.5	9.5
+Turbo XXX	100.0	7.8	7.7
+Shooting Star	100.1	16.5	9.4
+Australian Flyabout	100.1	14.0	9.9
+Starsweeper XXI	100.3	1.6	6.8
+Shooting Star	100.4	7.0	6.7
+Swiftstick	100.6	2.8	6.6
+Nimbus 2001	100.6	26.0	12.0
+Comet 180	100.8	11.6	8.5
+Starsweeper XXI	101.0	13.0	10.3
+Swiftstick	101.2	7.6	7.8
+Yajirushi	101.2	4.2	7.6
+Thunderbolt VII	101.4	5.2	7.1
+Thunderbolt VII	101.6	0.5	5.9
+Tinderblast	101.7	13.1	9.1
+Siberian Arrow	102.3	8.4	7.5
+Australian Flyabout	102.3	20.7	10.1
+Cleansweep Three	102.4	11.0	8.8
+Turbo XXX	102.6	26.3	11.6
+Tinderblast	103.3	8.3	6.6
+Bluebottle	103.9	26.1	11.4
+Nimbus 1000	104.0	6.6	8.5
+Thunderbolt VII	104.2	4.0	8.0
+Firebolt	104.6	17.2	8.3
+Oakshaft 79	104.7	10.0	7.4
+Thunderbolt VII	104.7	7.3	7.6
+Nimbus 2000	104.8	2.8	6.8
+Tinderblast	105.1	21.4	9.6
+Starsweeper XXI	105.2	2.1	6.6
+Nimbus 1700	105.5	25.8	10.9
+Comet 140	105.6	20.6	9.8
+Siberian Arrow	105.7	23.8	9.2
+Nimbus 2001	105.8	4.7	7.0
+Tinderblast	105.9	2.6	5.8
+Silver Arrow	106.0	18.1	9.2
+Swiftstick	106.6	26.9	10.5
+Swiftstick	106.6	9.2	6.8
+Firebolt	106.7	8.5	7.8
+Cleansweep Three	106.8	27.3	10.3
+Cleansweep Two	107.2	14.1	8.7
+Cleansweep Three	107.4	15.3	9.1
+Siberian Arrow	107.5	20.1	8.9
+Starsweeper XXI	107.6	29.5	11.6
+Tinderblast	107.7	27.6	11.3
+Starsweeper XXI	107.7	28.4	10.2
+Thunderbolt VII	108.3	12.0	7.3
+Nimbus 2000	108.5	5.1	6.5
+Starsweeper XXI	108.6	10.4	6.7
+Turbo XXX	108.7	23.6	9.6
+Comet 180	108.8	11.0	6.7
+Oakshaft 79	108.8	27.7	9.0
+Shooting Star	109.0	3.2	5.8
+Swiftstick	109.1	9.1	7.6
+Tinderblast	109.3	5.1	6.1
+Swiftstick	109.4	23.2	9.5
+Firebolt	109.5	15.2	8.0
+Air Wave Gold	109.6	16.3	8.1
+Nimbus 2001	109.7	3.5	5.1
+Starsweeper XXI	109.7	20.5	8.7
+Nimbus 2001	109.8	3.6	6.3
+Yajirushi	109.9	3.9	5.3
+Yajirushi	110.2	4.1	5.5
+Moontrimmer	110.6	28.9	10.6
+Swiftstick	110.8	6.0	5.6
+Nimbus 2001	110.8	20.0	7.9
+Silver Arrow	110.9	29.8	10.8
+Turbo XXX	111.6	23.3	8.5
+Moontrimmer	111.7	19.2	7.0
+Cleansweep One	111.8	14.4	6.4
+Moontrimmer	111.9	27.3	9.6
+Silver Arrow	112.0	16.2	8.3
+Nimbus 1700	112.4	19.8	7.8
+Swiftstick	112.6	13.9	7.5
+Comet 180	112.9	25.1	8.6
+Shooting Star	113.0	27.7	9.1
+Silver Arrow	114.1	20.4	8.1
+Shooting Star	114.1	26.0	8.9
+Firebolt	114.2	6.0	5.4
+Nimbus 2001	114.4	16.3	7.6
+Thunderbolt VII	114.4	29.3	9.6
+Shooting Star	114.8	10.6	6.2
+Thunderbolt VII	114.9	13.0	6.3
+Starsweeper XXI	115.2	15.3	7.0
+Starsweeper XXI	115.4	17.2	7.2
+Nimbus 2000	115.5	5.3	4.9
+Firebolt	115.6	7.7	5.7
+Cleansweep Three	115.7	15.0	6.9
+Swiftstick	115.8	2.2	4.5
+Australian Flyabout	116.1	8.2	5.5
+Shooting Star	116.2	28.4	10.2
+Cleansweep Two	116.2	19.2	6.5
+Firebolt	116.4	17.5	6.8
+Comet 180	116.7	16.2	6.7
+Starsweeper XXI	117.0	9.7	5.7
+Australian Flyabout	117.1	3.3	4.6
+Swiftstick	117.2	12.8	5.3
+Firebolt	117.5	15.8	6.0
+Comet 140	118.0	20.6	7.5
+Twigger 90	118.0	16.4	5.7
+Starsweeper XXI	118.0	15.7	6.6
+Cleansweep One	118.4	0.7	3.2
+Nimbus 2000	118.7	19.6	6.7
+Starsweeper XXI	119.4	20.4	7.7
+Nimbus 2001	119.5	18.8	5.7
+Silver Arrow	119.6	24.8	8.5
+Firebolt	119.8	8.7	5.7
+Yajirushi	119.9	22.9	7.3
+Twigger 90	120.0	25.5	7.5
+Swiftstick	120.0	4.3	4.1
+Turbo XXX	120.0	11.4	5.1
+Thunderbolt VII	120.3	8.8	4.6
+Starsweeper XXI	120.3	15.1	4.9
+Australian Flyabout	120.4	24.8	7.6
+Shooting Star	120.5	4.0	3.2
+Nimbus 2000	120.6	18.1	6.5
+Starsweeper XXI	120.6	6.5	3.3
+Nimbus 1700	120.6	8.2	4.9
+Nimbus 1000	120.6	23.8	6.0
+Yajirushi	120.9	21.9	5.4
+Firebolt	121.0	7.6	3.6
+Cleansweep One	121.1	27.8	7.7
+Cleansweep Three	121.2	2.2	3.5
+Nimbus 1700	121.2	4.6	4.4
+Swiftstick	121.3	4.2	3.4
+Firebolt	121.3	15.4	5.5
+Comet 180	121.3	16.8	4.8
+Oakshaft 79	121.4	18.0	4.9
+Shooting Star	121.4	22.9	6.8
+Swiftstick	121.4	24.5	7.6
+Cleansweep Three	121.5	17.0	5.9
+Firebolt	121.5	12.8	5.0
+Cleansweep Two	121.7	16.8	5.4
+Cleansweep Two	121.9	26.3	6.9
+Tinderblast	122.0	23.9	7.0
+Twigger 90	122.1	21.2	6.7
+Nimbus 2001	122.8	15.2	4.9
+Nimbus 1700	123.0	22.2	6.4
+Cleansweep Two	123.1	22.9	5.9
+Cleansweep Two	123.2	20.5	5.6
+Nimbus 1000	123.6	12.5	3.5
+Comet 140	123.8	9.9	3.4
+Nimbus 2001	123.8	29.1	7.6
+Siberian Arrow	124.0	29.6	8.6
+Nimbus 2000	124.1	28.5	7.3
+Bluebottle	124.2	19.0	6.1
+Cleansweep Two	124.3	29.4	7.7
+Cleansweep Two	124.4	29.3	7.3
+Nimbus 2001	124.4	10.5	4.6
+Thunderbolt VII	124.5	5.9	3.0
+Australian Flyabout	124.9	10.9	3.8
+Moontrimmer	125.1	1.5	2.2
+Cleansweep Three	125.1	2.2	2.9
+Cleansweep Two	125.2	24.2	7.2
+Swiftstick	125.6	14.1	4.0
+Cleansweep Three	125.7	12.0	3.1
+Twigger 90	126.0	3.5	2.7
+Siberian Arrow	126.0	13.6	4.2
+Tinderblast	126.1	18.6	4.6
+Turbo XXX	126.8	0.5	2.0
+Starsweeper XXI	127.0	24.2	5.8
+Nimbus 2000	127.1	8.5	3.1
+Nimbus 1000	127.1	5.8	2.6
+Cleansweep Two	127.3	15.0	4.6
+Bluebottle	127.3	16.6	3.7
+Nimbus 2000	127.4	23.9	5.3
+Tinderblast	127.4	28.7	5.8
+Swiftstick	127.5	14.6	4.7
+Comet 180	127.5	27.0	6.6
+Starsweeper XXI	127.8	15.2	4.7
+Nimbus 1000	127.8	26.9	6.3
+Oakshaft 79	128.0	13.3	4.1
+Starsweeper XXI	128.2	2.2	2.0
+Cleansweep Two	128.2	15.3	4.5
+Tinderblast	128.6	1.8	1.7
+Starsweeper XXI	128.7	22.4	5.4
+Swiftstick	128.9	10.5	3.1
+Turbo XXX	129.3	4.7	2.2
+Shooting Star	129.4	16.0	4.1
+Cleansweep Two	129.5	23.2	5.8
+Moontrimmer	129.7	25.0	5.9
+Yajirushi	129.8	20.3	4.5
+Nimbus 1700	129.9	26.3	6.1
+Firebolt	129.9	17.4	4.3
+Swiftstick	129.9	26.0	6.8
+Tinderblast	130.0	20.3	3.7
+Thunderbolt VII	130.1	10.4	2.2
+Tinderblast	130.2	16.3	4.7
+Swiftstick	130.2	13.8	5.3
+Turbo XXX	130.3	6.4	1.1
+Bluebottle	130.3	26.2	5.2
+Silver Arrow	130.3	15.1	3.0
+Oakshaft 79	130.4	20.3	3.9
+Moontrimmer	130.5	12.7	2.9
+Shooting Star	130.6	11.2	2.7
+Comet 180	130.7	22.7	2.7
+Cleansweep Two	130.7	19.1	2.8
+Oakshaft 79	130.9	29.9	6.3
+Firebolt	131.0	3.5	1.7
+Yajirushi	131.0	15.3	4.1
+Bluebottle	131.2	25.2	6.0
+Nimbus 1700	131.4	12.8	3.3
+Nimbus 1000	131.5	21.6	3.7
+Swiftstick	131.6	18.9	4.1
+Firebolt	131.7	0.9	1.6
+Swiftstick	131.8	13.0	2.1
+Cleansweep Three	131.9	19.4	4.1
+Oakshaft 79	132.2	15.3	2.8
+Cleansweep One	132.4	7.5	1.9
+Nimbus 2001	132.4	4.2	1.7
+Comet 140	133.1	11.3	1.7
+Silver Arrow	133.7	14.1	3.0
+Twigger 90	133.8	16.2	2.4
+Nimbus 1700	133.8	0.6	1.6
+Nimbus 1700	133.9	26.5	5.3
+Turbo XXX	134.0	16.9	3.8
+Silver Arrow	134.0	18.9	3.3
+Swiftstick	134.2	9.3	1.6
+Turbo XXX	134.2	22.6	4.3
+Nimbus 2001	134.2	26.1	4.6
+Nimbus 1700	134.5	22.5	4.3
+Swiftstick	134.6	16.2	2.9
+Turbo XXX	134.9	5.7	1.1
